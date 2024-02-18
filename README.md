@@ -8,7 +8,7 @@ The rice uses catppuccin colors and Rofi theme is made by [Deathemonic](https://
 
 needed aplications are
 
-:Nitrogen (for wallpaper)
+:Nitrogen (for wallpaper)    
 :Picom (for compositor)
 :Rofi (Launcer and power menu)
 :Qutebrowser
