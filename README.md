@@ -17,3 +17,14 @@ needed aplications are
 :Qutebrowser  
 :Kitty  
 :Vim (for text editor)
+
+
+
+
+
+You can get images to neofetch launcing it with few falgs
+
+```
+neofetch --kitty <path/to/file>
+
+```
