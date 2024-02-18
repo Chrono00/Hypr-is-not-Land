@@ -1,4 +1,7 @@
 # Hypr-is-not-Land
+
+![Image](HyprSs.png)
+
 My new daily drive wm config
 
 
